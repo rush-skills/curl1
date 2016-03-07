@@ -1,3 +1,3 @@
 # cURL Challenge app code
 
-Made by [Ankur Singh](ankur13019@iiitd.ac.in) for Byld Scripting Challenge.
+Made by [Ankur Singh](https://github.com/rush-skills) for Byld Scripting Challenge.
